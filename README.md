@@ -1,0 +1,1 @@
+# Integrated-System-for-Leaf-Disease-Prediction-and-Crop-Recommendation-Using-Machine-Learning-and-IoT
